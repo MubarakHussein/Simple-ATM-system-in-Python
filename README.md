@@ -42,4 +42,4 @@ Welcome to the **Simple ATM Machine System** project! This Python script simulat
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/simple-atm-machine.git
+   git clone https://github.com/MubarakHussein/Simple-ATM-system-in-Python.git
